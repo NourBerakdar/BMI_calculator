@@ -1,6 +1,8 @@
 # bmi_calc
 
-A new Flutter project.
+This app calculates your fitness by using a Bmi calculator.
+Body mass index (BMI) is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height and is expressed in units of kg/m2, resulting from mass in kilograms and height in meters.
+If you don't know about BMI Calculator you can read this site "https://en.wikipedia.org/wiki/Body_mass_index".
 
 ## Getting Started
 
