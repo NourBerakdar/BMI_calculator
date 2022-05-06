@@ -18,8 +18,5 @@ If you don't know about BMI Calculator you can read this site "https://en.wikipe
 
 
 
-
-
-
-https://user-images.githubusercontent.com/86231584/149675941-e784e2e2-631d-4ec3-b38b-b391f48e9c20.mp4
+https://user-images.githubusercontent.com/86231584/167217089-d9040268-c964-49d3-9a05-cd96f418cbae.mp4
 
