@@ -5,11 +5,8 @@ Body mass index (BMI) is a value derived from the mass (weight) and height of a 
 If you don't know about BMI Calculator you can read this site "https://en.wikipedia.org/wiki/Body_mass_index".
 
 # In This app:
-* I used Flutter themes to create coherent branding.
+* I used: Flutter themes to create coherent branding,GestureDetector Widget to detect more than just a tap.
 * I created multi-page apps using Flutter Routes and Navigator.
-* I passed functions as parameters and fields.
-* I used the GestureDetector Widget to detect more than just a tap.
-* I used custom color palettes by using hex codes.
 * I customized Flutter Widgets to achieve a specific design style.
 
 
